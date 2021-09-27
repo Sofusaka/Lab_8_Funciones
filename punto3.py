@@ -1,3 +1,7 @@
+#3.Solicitar números al usuario hasta que ingrese el cero. Por cada uno, mostrar la suma de sus dígitos. 
+# Al finalizar, mostrar la sumatoria de todos los números ingresados y la suma de sus dígitos. 
+# Reutilizar la misma función realizada en el ejercicio 2.  este no es.
+
 def sumaDigitos(numero): 
     suma=0 
     while numero !=0:  

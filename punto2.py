@@ -1,3 +1,7 @@
+#2.	Solicitar números al usuario hasta que ingrese el cero. Por cada uno, mostrar la suma de sus dígitos
+#  (utilizando una función que realice dicha suma).
+
+
 def sumaDigitos(numero):
 	suma=0
 	while numero !=0:
