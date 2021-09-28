@@ -1,4 +1,4 @@
-#6.Escribir un programa que pida números al usuario, mostrar la factorial de cada uno y, al finalizar, 
+#Escribir un programa que pida números al usuario, mostrar la factorial de cada uno y, al finalizar, 
 # la cantidad total de números leídos en total. Utilizar una o más funciones, según sea necesario.
 
 cond='si'

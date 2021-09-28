@@ -1,4 +1,4 @@
-#5.Solicitar al usuario un número entero y luego un dígito. 
+#Solicitar al usuario un número entero y luego un dígito. 
 # Informar la cantidad de ocurrencias del dígito en el número, 
 # utiliza para ello una función que calcule la frecuencia del dígito en el número ingresado.
 
